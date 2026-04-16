@@ -23,5 +23,6 @@ There are three different steps to the final bar chart. The first graph is just 
 </p>
 <p>
 data link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv
+notebook link: https://github.com/abigailjohnson26/abigailjohnson26.github.io/blob/main/visualizationnotebook.ipynb
 </p>
 </div>
