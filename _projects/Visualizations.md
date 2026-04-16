@@ -21,4 +21,7 @@ In this visualization I created a pie chart that seperates each slice by license
 <p>
 There are three different steps to the final bar chart. The first graph is just a plain bar chart seperate each license type and showing how many records are recorded for each. The second bar chart has a small amount of interactivity. It allows the user to click on each bar and it changes the color. The bars are all purple, then when one is selected, the selected on remains purple while the rest change to green. I wanted to change the colors, just so I could add a little more creativity into the chart. I just like the colors purple and green, there was no specific reason. For the license type I used nominal data, and for Original Issue date I used time. I picked nominal for license type because each possible type is its own distinct catgory, and original issue date is seperated by year. I asked Google Gemini for ways to make the bar chart interactive and I found one of the options very interesting. It came up with idea to link a histogram and the bar chart. When you click on a license type it also shows a histogram of the issue dates according to records. It is super interesting looking at because each license type has a different year where the amount of license spike. For example there were a spike in amount of dental licenses in 1997/1998 while design firm license had a spike in 1995.
 </p>
+<p>
+data link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv
+</p>
 </div>
